@@ -1,5 +1,5 @@
 # Compiler-Final-Project
-Compiler Design final project used for my Compiler Design Course - Lex , Yacc , JFlex , Intermediate code generation
+Principles of Compiler Design course project implemented using Bison and JFlex
 
 ## How to compile
 Make sure that you have set up Bison and Flex properly, then run the following code in terminal:
